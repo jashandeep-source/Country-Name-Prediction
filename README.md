@@ -1,6 +1,6 @@
-**CMPT353-Project**
+**Country Name Prediction Using Geospatial and Socioeconomic Factors**
 
-## In this project, we had done analysis and prediciton of the cities data in combination with unemployment data and international toursim data
+## In this project, analysis and prediciton of the cities data in combination with unemployment data and international toursim data
 
 **Libraries used:**
 * Anaconda: https://www.anaconda.com
@@ -49,10 +49,6 @@
 ***python3 unemployment_analysis.py***
 
 ### Data Prediction
-#### For toursim: 
-* Run tourism_prediction.py as
-***python3 tourism_prediction.py***
-
 #### For Country Name: 
 * Run countryname_prediciton.ipynb
 
@@ -65,11 +61,6 @@
 * Population Vs Unemployment.pmg
 
 ### Data Prediction
-#### For Toursim
-* tourism_results/cv_results.txt
-* tourism_results/data.csv
-* tourism_results/validation_results.csv
-
 #### For Country Name
 * country_predictions/validation_results.csv
 
